@@ -28,6 +28,7 @@ resource-types:
     - IAMUserPolicyAttachment
     - IAMUserSSHPublicKey
     - IAMVirtualMFADevice
+    - Route53ResolverRule
 
 regions:
   - global
