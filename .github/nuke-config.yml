@@ -34,5 +34,6 @@ regions:
   - global
   - us-east-1
   - eu-central-1
+  - eu-west-1 
   - sa-east-1
   
